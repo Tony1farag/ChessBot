@@ -406,9 +406,7 @@ class ChessGUI:
             self.update_status()
 
 
-# =====================================
 # 4. LAUNCH
-# =====================================
 
 if __name__ == "__main__":
     root = tk.Tk()
